@@ -46,6 +46,5 @@ public class Assignment {
         // 8. Check if the string contains whitespace.
         System.out.println("Contains whitespace: " + input.matches(".*\\s.*"));
 
-        sc.close();
     }
 }
